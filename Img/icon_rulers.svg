@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="112px" viewBox="0 0 120 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_rulers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon_rulers" transform="translate(1.000000, 1.000000)" stroke="#4F5A60">
+            <g>
+                <polygon id="Stroke-1" stroke-width="2" points="0.0002 0.0001 110.0002 110.0001 0.0002 110.0001"></polygon>
+                <polygon id="Stroke-3" stroke-width="2" points="25.0002 53.3996 58.6002 87.0006 25.0002 87.0006"></polygon>
+                <path d="M24.0002,34.3996 L82.2002,92.5996" id="Stroke-4"></path>
+                <path d="M88.0002,97.7999 L93.8002,103.7999" id="Stroke-5"></path>
+                <g id="Group-22" transform="translate(25.000000, 0.000000)" stroke-width="2">
+                    <path d="M0.0002,110.0001 L0.0002,102.2001" id="Stroke-6"></path>
+                    <path d="M27.0002,110.0001 L27.0002,102.2001" id="Stroke-8"></path>
+                    <path d="M52.1999,110.0001 L52.1999,102.2001" id="Stroke-10"></path>
+                    <polyline id="Stroke-12" points="61.5998 86.5997 61.5998 -0.0003 92.9998 -0.0003 92.9998 109.9997 61.5998 109.9997"></polyline>
+                    <path d="M84.9997,21.2003 L92.9997,21.2003" id="Stroke-14"></path>
+                    <path d="M84.9997,43.2003 L92.9997,43.2003" id="Stroke-16"></path>
+                    <path d="M84.9997,65.2003 L92.9997,65.2003" id="Stroke-18"></path>
+                    <path d="M84.9997,87.2003 L92.9997,87.2003" id="Stroke-20"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

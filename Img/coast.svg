@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="115px" viewBox="0 0 115 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>coast</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon_coast" transform="translate(1.000000, 1.000000)" stroke="#4F5A60">
+            <g id="coast">
+                <g id="icon_coast">
+                    <polygon id="Stroke-1" stroke-width="2" points="77.4347 44.4153 -0.0003 44.4153 -0.0003 0.0003 77.4347 0.0003 99.6427 22.2073"></polygon>
+                    <polyline id="Stroke-3" stroke-width="2" points="90.6578 13.2239 99.6428 13.2239 99.6418 44.6299 44.8878 99.3839 13.4818 67.9789 37.0448 44.4149"></polyline>
+                    <g id="Group-16" transform="translate(11.000000, 15.866000)">
+                        <polyline id="Stroke-4" stroke-width="2" points="88.6681 6.3266 101.9071 19.5646 101.9071 97.0006 57.4921 97.0006 57.4921 59.9126"></polyline>
+                        <path d="M72.1783,6.3266 C72.1783,9.0756 69.9493,11.3046 67.2003,11.3046 C64.4513,11.3046 62.2233,9.0756 62.2233,6.3266 C62.2233,3.5776 64.4513,1.3486 67.2003,1.3486 C69.9493,1.3486 72.1783,3.5776 72.1783,6.3266 Z" id="Stroke-6" stroke-width="2"></path>
+                        <path d="M0.7345,0.4946 L48.3245,0.4946" id="Stroke-8" stroke-width="2"></path>
+                        <path d="M0.7345,12.1587 L31.2095,12.1587" id="Stroke-10"></path>
+                        <path d="M23.5797,52.7134 L47.7437,28.5494" id="Stroke-12" stroke-width="2"></path>
+                        <path d="M31.8277,60.9604 L53.3767,39.4114" id="Stroke-14"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

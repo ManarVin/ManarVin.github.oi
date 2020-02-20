@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ok_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ok_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path-5" stroke="#FFFFFF" stroke-width="2" points="29.8154297 45.5244141 52.4003906 67.7324219 92.6269531 23.3164062"></polyline>
+        <path d="M53,90 C73.4345357,90 90,73.4345357 90,53 C90,32.5654643 73.4345357,16 53,16 C32.5654643,16 16,32.5654643 16,53 C16,58.3069955 17.1173044,63.3530306 19.1295145,67.9157066 C21.2448572,72.7122354 24.3491905,76.9745877 28.1841369,80.4443862 C29.7127587,81.8274589 31.3574636,83.0846071 33.1018881,84.1994672" id="Oval" stroke="#FFFFFF" stroke-width="2" transform="translate(53.000000, 53.000000) rotate(220.000000) translate(-53.000000, -53.000000) "></path>
+    </g>
+</svg>

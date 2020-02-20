@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="120px" viewBox="0 0 141 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_dialogue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon_dialogue" transform="translate(1.000000, 0.000000)" stroke="#4F5A60">
+            <g>
+                <g id="Group-5" transform="translate(0.000000, 0.690000)" stroke-width="2">
+                    <polygon id="Stroke-1" points="138.7746 20.2219 138.7746 98.8229 122.6746 98.8229 122.6746 117.9999 103.1736 98.8229 34.7746 98.8229 34.7746 20.2219"></polygon>
+                    <polyline id="Stroke-3" points="96.0002 20.2219 96.0002 0.3099 0.0002 0.3099 0.0002 78.9099 16.1002 78.9099 16.1002 98.0879 34.7742 79.7229"></polyline>
+                </g>
+                <path d="M56.6754,41.3845 L118.8734,41.3845" id="Stroke-6" stroke-width="2"></path>
+                <path d="M56.6754,53.6902 L118.8734,53.6902" id="Stroke-7" stroke-width="2"></path>
+                <path d="M56.6754,65.9959 L118.8734,65.9959" id="Stroke-8" stroke-width="2"></path>
+                <path d="M20.6769,31.0789 L34.7749,31.0789" id="Stroke-9" stroke-width="2"></path>
+                <path d="M20.6769,43.3845 L34.7749,43.3845" id="Stroke-10" stroke-width="2"></path>
+                <path d="M20.6769,55.6902 L34.7749,55.6902" id="Stroke-11" stroke-width="2"></path>
+                <path d="M56.6754,83.9959 L80.1744,83.9959" id="Stroke-12"></path>
+            </g>
+        </g>
+    </g>
+</svg>
